@@ -4,8 +4,8 @@
 
 |key|value|
 |---|---|
-|氏名| 大出達也 |
-|生年月日| 1991年07月14日|
+| 氏名 | 大出達也 |
+| 生年月日 | 1991/07/14 |
 
 ---
 
@@ -19,6 +19,10 @@
 ---
 
 ## 保有スキル
+
+- Ruby on Rails を使ったアプリケーションの開発・設計
+- Terraform を利用したインフラのコード化
+- セキュリティを考慮したインフラの構築
 
 ---
 
@@ -49,37 +53,44 @@
 
 ### ラフノート株式会社（2020/05〜現在）
 
-**補助金・助成金支援サービスの新規開発**
-2021年04月~現在
+**補助金・助成金支援サービスの新規開発・運用（2021/04〜現在）**
 
-- **使用技術**
-  - Ruby on Rails
-  - TypeScript
-  - Terraform
-  - AWS
+Ruby on Rails による Webアプリケーションの新規開発、Terraform によるインフラの構築を担当しました。
 
-**APIを連携するツールの開発**
-2021年09月~11月
+- Ruby on Rails を利用した会員画面の開発を担当
+- Terraform の導入
+- github actions を利用したインフラのCI/CDパイプラインの構築を担当
+- Fluent Bit を利用したロギングを担当
+- AWS を利用したインフラの構築を担当
+  - VPC EC2 EIP ALB ECS ECR RDS KMS ElastiCache Route53 Workspaces VPN
+  - CloudWatch EventBridge SNS Lambda S3 SecretsManager FireLens
 
-- **使用技術**
-  - React
-  - TypeScript
-  - Firebase
+**API を連携するツールの開発（2021/09〜11）**
 
-**社内ポータルサイトのリニューアル**
-2020年06月~現在
+2つのAPIを連携するツールの開発を担当しました。
 
-- **使用技術**
-  - Ruby on Rails
-  - AWS
+- **プロジェクト詳細**
+  - React・TypeScript を利用したフロントエンド開発を担当
+  - Cloud Functions を利用したバックエンドの開発を担当
 
-**業務の自動化を支援するツールの開発**
-2020年05月~2021年06月
+**社内ポータルサイトのリニューアル・運用（2020/06〜現在）**
 
-- **使用技術**
-  - Ruby on Rails
-  - AWS
-  - GAS
+Ruby on Rails による社内ポータルサイトのリニューアル、インフラの構築を担当しました。
+
+- **プロジェクト詳細**
+  - お客様との MTG 及び要件定義を担当
+  - Ruby on Rails によるwebアプリケーションの開発を担当
+  - CircleCI を利用した CI/CDパイプラインの構築を担当
+  - AWS を利用したインフラの構築を担当
+    - VPC EC2 ALB RDS ElastiCache Route53 ACM EIP
+
+**業務の自動化を支援するツールの開発・運用（2020/05〜2021/06）**
+
+- **プロジェクト詳細**
+  - Ruby on Rails によるバッチの開発を担当
+  - GAS, ChatworkAPI, SlackAPI など様々なAPIを利用した業務の自動化を担当
+  - AWS を利用したインフラの構築を担当
+    - VPC EC2 RDS ElastiCache EIP
 
 ## 業務外活動
 
@@ -91,4 +102,5 @@
 ### 技術記事
 
 - **Zenn**
+  - 2022/01 現在 10 記事 119 いいね
   - https://zenn.dev/machamp
