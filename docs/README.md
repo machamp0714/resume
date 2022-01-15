@@ -55,19 +55,19 @@
 
 **補助金・助成金支援サービスの新規開発・運用（2021/04〜現在）**
 
-Ruby on Rails による Webアプリケーションの新規開発、Terraform によるインフラの構築を担当しました。
+Ruby on Rails による Web アプリケーションの新規開発、Terraform によるインフラの構築を担当しました。
 
 - Ruby on Rails を利用した会員画面の開発を担当
-- Terraform の導入
-- github actions を利用したインフラのCI/CDパイプラインの構築を担当
-- Fluent Bit を利用したロギングを担当
+- Terraform を社内に導入
+- github actions を利用したインフラの CI/CD パイプラインの構築を担当
+- Fluent Bit を利用したログ基盤の構築を担当
 - AWS を利用したインフラの構築を担当
   - VPC EC2 EIP ALB ECS ECR RDS KMS ElastiCache Route53 Workspaces VPN
-  - CloudWatch EventBridge SNS Lambda S3 SecretsManager FireLens
+  - CloudWatch EventBridge SNS Lambda WAF S3 SecretsManager FireLens
 
 **API を連携するツールの開発（2021/09〜11）**
 
-2つのAPIを連携するツールの開発を担当しました。
+複数の API を連携するための Web アプリケーションの開発を担当しました。
 
 - **プロジェクト詳細**
   - React・TypeScript を利用したフロントエンド開発を担当
@@ -79,8 +79,8 @@ Ruby on Rails による社内ポータルサイトのリニューアル、イン
 
 - **プロジェクト詳細**
   - お客様との MTG 及び要件定義を担当
-  - Ruby on Rails によるwebアプリケーションの開発を担当
-  - CircleCI を利用した CI/CDパイプラインの構築を担当
+  - Ruby on Rails による Web アプリケーションの開発を担当
+  - CircleCI を利用した CI/CD パイプラインの構築を担当
   - AWS を利用したインフラの構築を担当
     - VPC EC2 ALB RDS ElastiCache Route53 ACM EIP
 
@@ -88,7 +88,7 @@ Ruby on Rails による社内ポータルサイトのリニューアル、イン
 
 - **プロジェクト詳細**
   - Ruby on Rails によるバッチの開発を担当
-  - GAS, ChatworkAPI, SlackAPI など様々なAPIを利用した業務の自動化を担当
+  - GAS, ChatworkAPI, SlackAPI など様々な API を利用した業務の自動化を担当
   - AWS を利用したインフラの構築を担当
     - VPC EC2 RDS ElastiCache EIP
 
@@ -104,3 +104,5 @@ Ruby on Rails による社内ポータルサイトのリニューアル、イン
 - **Zenn**
   - 2022/01 現在 10 記事 119 いいね
   - https://zenn.dev/machamp
+
+## これからやりたいこと
