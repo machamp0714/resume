@@ -57,40 +57,56 @@
 
 Ruby on Rails による Web アプリケーションの新規開発、Terraform によるインフラの構築を担当しました。
 
-- Ruby on Rails を利用した会員画面の開発を担当
-- Terraform を社内に導入
-- github actions を利用したインフラの CI/CD パイプラインの構築を担当
-- Fluent Bit を利用したログ基盤の構築を担当
-- AWS を利用したインフラの構築を担当
-  - VPC EC2 EIP ALB ECS ECR RDS KMS ElastiCache Route53 Workspaces VPN
-  - CloudWatch EventBridge SNS Lambda WAF S3 SecretsManager FireLens
+- **プロジェクト規模**
+  - メンバー: 3 名
+
+- **担当業務**
+  - Ruby on Rails を利用した会員画面の開発
+  - Terraform の導入
+  - github actions を利用したインフラの CI/CD パイプラインの構築
+  - Fluent Bit を利用したログ基盤の構築
+  - AWS を利用したインフラの構築
+    - VPC / EC2 / EIP / ALB / ECS / ECR / RDS / KMS / ElastiCache / Route53 / Workspaces / VPN / CloudWatch / EventBridge / SNS / Lambda / WAF / S3 / SecretsManager / FireLens
 
 **API を連携するツールの開発（2021/09〜11）**
 
 複数の API を連携するための Web アプリケーションの開発を担当しました。
 
-- **プロジェクト詳細**
-  - React・TypeScript を利用したフロントエンド開発を担当
-  - Cloud Functions を利用したバックエンドの開発を担当
+- **プロジェクト規模**
+   - メンバー： 1 名
+
+- **担当業務**
+  - React・TypeScript を利用したフロントエンド開発
+  - Cloud Functions を利用したバックエンドの開発
 
 **社内ポータルサイトのリニューアル・運用（2020/06〜現在）**
 
 Ruby on Rails による社内ポータルサイトのリニューアル、インフラの構築を担当しました。
 
-- **プロジェクト詳細**
-  - お客様との MTG 及び要件定義を担当
-  - Ruby on Rails による Web アプリケーションの開発を担当
-  - CircleCI を利用した CI/CD パイプラインの構築を担当
-  - AWS を利用したインフラの構築を担当
-    - VPC EC2 ALB RDS ElastiCache Route53 ACM EIP
+- **プロジェクト規模**
+  - メンバー： 1 名
+
+- **担当業務**
+  - お客様との MTG 及び要件定義
+  - Ruby on Rails による Web アプリケーションの開発
+  - CircleCI を利用した CI/CD パイプラインの構築
+  - データベースの移管
+  - 既存の静的ファイルをBoxへ移管
+  - AWS を利用したインフラの構築
+    - VPC / EC2 / ALB / RDS / ElastiCache / Route53 / ACM / EIP
 
 **業務の自動化を支援するツールの開発・運用（2020/05〜2021/06）**
 
-- **プロジェクト詳細**
-  - Ruby on Rails によるバッチの開発を担当
-  - GAS, ChatworkAPI, SlackAPI など様々な API を利用した業務の自動化を担当
-  - AWS を利用したインフラの構築を担当
-    - VPC EC2 RDS ElastiCache EIP
+- **プロジェクト規模**
+  - メンバー： 1 名
+
+- **担当業務**
+  - Ruby on Rails によるバッチの開発
+  - GAS, ChatworkAPI, SlackAPI など様々な API を利用した業務の自動化
+  - AWS を利用したインフラの構築
+    - VPC / EC2 / RDS / ElastiCache / EIP
+
+---
 
 ## 業務外活動
 
@@ -105,4 +121,4 @@ Ruby on Rails による社内ポータルサイトのリニューアル、イン
   - 2022/01 現在 10 記事 119 いいね
   - https://zenn.dev/machamp
 
-## これからやりたいこと
+---
