@@ -1,5 +1,9 @@
 # Oide Tatsuya's resume
 
+## Data
+
+- [Github Pages](https://machamp0714.github.io/resume/)
+
 ## Features
 
 ### 💅 Lint text
