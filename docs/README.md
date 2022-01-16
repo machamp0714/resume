@@ -55,7 +55,7 @@
 
 **補助金・助成金支援サービスの新規開発・運用（2021/04〜現在）**
 
-Ruby on Rails による Web アプリケーションの新規開発、Terraform によるインフラの構築を担当しました。
+Ruby on Rails による Web アプリケーションの開発、Terraform によるインフラの構築を担当しました。
 
 - **プロジェクト規模**
   - メンバー: 3 名
@@ -63,7 +63,7 @@ Ruby on Rails による Web アプリケーションの新規開発、Terraform 
 - **担当業務**
   - Ruby on Rails を利用した会員画面の開発
   - Terraform の導入
-  - github actions を利用したインフラの CI/CD パイプラインの構築
+  - Github Actions を利用したインフラの CI/CD パイプラインの構築
   - Fluent Bit を利用したログ基盤の構築
   - AWS を利用したインフラの構築
     - VPC / EC2 / EIP / ALB / ECS / ECR / RDS / KMS / ElastiCache / Route53 / Workspaces / VPN / CloudWatch / EventBridge / SNS / Lambda / WAF / S3 / SecretsManager / FireLens
@@ -87,11 +87,11 @@ Ruby on Rails による社内ポータルサイトのリニューアル、イン
   - メンバー： 1 名
 
 - **担当業務**
-  - お客様との MTG 及び要件定義
+  - 要件定義
   - Ruby on Rails による Web アプリケーションの開発
   - CircleCI を利用した CI/CD パイプラインの構築
   - データベースの移管
-  - 既存の静的ファイルをBoxへ移管
+  - 既存の静的ファイルを Box へ移管
   - AWS を利用したインフラの構築
     - VPC / EC2 / ALB / RDS / ElastiCache / Route53 / ACM / EIP
 
@@ -112,13 +112,25 @@ Ruby on Rails による社内ポータルサイトのリニューアル、イン
 
 ### 個人開発
 
-- [Terraform TimeCrowd Provider](https://github.com/machamp0714/terraform-provider-timecrowd)
-- [LoveKitchen](https://github.com/machamp0714/love_kitchen)
+| プロジェクト名 | 概要 | URL |
+| --- | --- | --- |
+| Terraform TimeCrowd Provider | 自作 Provider に興味があり開発しました | https://github.com/machamp0714/terraform-provider-timecrowd |
+| LoveKitchen | 業務未経験の時に作ったポートフォリオ | https://github.com/machamp0714/love_kitchen |
 
 ### 技術記事
 
 - **Zenn**
-  - 2022/01 現在 10 記事 119 いいね
+  - 2022/01 現在 10 記事 121 いいね
   - https://zenn.dev/machamp
 
 ---
+
+### この先やりたいこと
+
+- 今まで要件定義・お見積りの作成、実装、インフラまで 1 人で進めることが多かったので、今後はチームで対応出来る環境で仕事がしたいです
+- バックエンド・インフラの開発に携わることが多いですが、フロントエンドにも興味があります
+- 自分が興味を持ったプロジェクトに貢献がしたいです
+
+### 希望条件
+
+- 現在地方在住ためリモートワークを希望しています
