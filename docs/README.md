@@ -70,7 +70,7 @@ Ruby on Rails による Web アプリケーションの開発、Terraform によ
   - Github Actions を利用したインフラの CI/CD パイプラインの構築
   - Fluent Bit を利用したログ基盤の構築
   - AWS を利用したインフラの構築
-    - VPC / EC2 / EIP / ALB / ECS / ECR / RDS / KMS / ElastiCache / Route53 / Workspaces / VPN / CloudWatch / EventBridge / SNS / Lambda / WAF / S3 / SecretsManager / FireLens
+    - VPC / EC2 / EIP / ALB / ECS / CapacityProvider / ECR / RDS / KMS / ElastiCache / Route53 / Workspaces / VPN / CloudWatch / EventBridge / SNS / Lambda / WAF / S3 / SecretsManager / FireLens
 
 **API を連携するツールの開発（2021/09〜11）**
 
