@@ -1,17 +1,14 @@
 ---
 layout: doc
-
-hero:
-  name: "職務経歴書"
-  text: "A VitePress Site"
 ---
-# 職務経歴書
+
+# 職務経歴
 
 ## 基本情報
 
 |key|value|
 |---|---|
-| 氏名 | 大出達也 |
+| 氏名 | 大出 達也 |
 | 生年月日 | 1991/07/14 |
 | github | [@machamp0714](https://github.com/machamp0714) |
 | Zenn | [@machamp](https://zenn.dev/machamp) |
