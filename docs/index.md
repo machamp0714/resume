@@ -14,6 +14,20 @@ layout: doc
 | Zenn | [@machamp](https://zenn.dev/machamp) |
 | X | [@machamp0714](https://x.com/machamp0714) |
 
+## スキル
+
+<div class="mb-10">
+
+[![Language](https://skillicons.dev/icons?i=ruby,typescript,javascript,terraform,rails,react,aws,docker&perline=4)](https://skillicons.dev)
+
+</div>
+
+- 要件定義からインフラ構築まで、プロジェクトの全フェーズを担当した経験
+- テスト駆動開発による保守性の高いコードベース構築
+- AWS を利用したマルチアカウント環境の設計・構築経験
+- Terraform による Infrastructure as Code の実践
+- モダンな開発手法や新技術の積極的にキャッチアップし導入した経験
+
 ## 職務経歴詳細
 
 ### ラフノート株式会社（2020/05〜現在）
@@ -93,14 +107,6 @@ layout: doc
   - 数百サイトに対応したスクレイピング機能の実装し、手作業での収集工数を削減
   - Slackを活用したバッチの再試行機能の実装
 :::
-
-## スキル
-
-- 要件定義からインフラ構築まで、プロジェクトの全フェーズを担当した経験
-- テスト駆動開発による保守性の高いコードベース構築
-- AWS を利用したマルチアカウント環境の設計・構築経験
-- Terraform による Infrastructure as Code の実践
-- モダンな開発手法や新技術の積極的にキャッチアップし導入した経験
 
 ## 意欲
 
