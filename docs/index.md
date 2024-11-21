@@ -1,57 +1,32 @@
 ---
 layout: doc
-
-hero:
-  name: "職務経歴書"
-  text: "A VitePress Site"
 ---
-# 職務経歴書
+
+# 職務経歴
 
 ## 基本情報
 
 |key|value|
 |---|---|
-| 氏名 | 大出達也 |
+| 氏名 | 大出 達也 |
 | 生年月日 | 1991/07/14 |
+| github | [@machamp0714](https://github.com/machamp0714) |
+| Zenn | [@machamp](https://zenn.dev/machamp) |
+| X | [@machamp0714](https://x.com/machamp0714) |
 
-## 各種アカウント
-<div class="space-x-3">
-  <a class="inline-block" href="https://github.com/machamp0714" target="_blank"><img alt="Github" src="https://img.shields.io/badge/machmap-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a class="inline-block" href="https://zenn.dev/machamp" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/machamp-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-</div>
+## スキル
 
-## 技術スタック
+<div class="mb-10">
 
-<div class="grid gap-4 grid-cols-[repeat(auto-fit,minmax(300px,1fr))]">
-
-<div>
-
-| 言語 | 経験年数 |
-| --- | --- |
-| <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" /> | 4年 |
-| <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" /> | 2年 |
-| <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> | 1年 |
+[![Language](https://skillicons.dev/icons?i=ruby,typescript,javascript,terraform,rails,react,aws,docker&perline=4)](https://skillicons.dev)
 
 </div>
 
-<div>
-
-| フレームワーク | 経験年数 |
-| --- | --- |
-| <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" /> | 4年 |
-| <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" /> | 3年 |
-| <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=React&logoColor=white" /> | 1年 |
-
-</div>
-
-</div>
-
-## この先やりたいこと
-
-1. 領域問わず担当することが多かったですが、今後はバックエンドの専門性を高めていきたいと考えています
-2. 社内システムの開発に関わることが多かったので、多くのユーザーに利用して頂けるサービスの開発に関わってみたいです
-3. ただ言われた通りに開発するのではなく、どうすればユーザーのためになるのか一緒に考えていけるチームで仕事がしたいです
-4. 新しい挑戦(技術・制度)に対して積極的な環境だと嬉しいです
+- 要件定義からインフラ構築まで、プロジェクトの全フェーズを担当した経験
+- テスト駆動開発による保守性の高いコードベース構築
+- AWS を利用したマルチアカウント環境の設計・構築経験
+- Terraform による Infrastructure as Code の実践
+- モダンな開発手法や新技術の積極的にキャッチアップし導入した経験
 
 ## 職務経歴詳細
 
@@ -132,3 +107,10 @@ hero:
   - 数百サイトに対応したスクレイピング機能の実装し、手作業での収集工数を削減
   - Slackを活用したバッチの再試行機能の実装
 :::
+
+## 意欲
+
+- 領域問わず担当することが多かったですが、今後はバックエンドの専門性を高めていきたいと考えています
+- 社内システムの開発に関わることが多かったので、多くのユーザーに利用して頂けるサービスの開発に関わってみたいです
+- ただ言われた通りに開発するのではなく、どうすればユーザーのためになるのか一緒に考えていけるチームで仕事がしたいです
+- 新しい挑戦(技術・制度)に対して積極的な環境だと嬉しいです
