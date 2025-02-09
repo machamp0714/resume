@@ -6,7 +6,7 @@ export default defineConfig({
   description: "スキルシート",
   themeConfig: {
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/machamp0714/resume" },
     ],
   },
   base: "/resume/",
